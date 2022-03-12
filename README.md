@@ -15,6 +15,5 @@ It can also help customers to predict future flight prices and plan their journe
 # Objective
 
 The objective of this Project is to predict flight prices given the various parameters. 
-Data used in this Project is publicly available at Kaggle. 
 This will be a regression problem since the target or dependent variable is the price (continuous numeric value).
 
